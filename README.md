@@ -1,6 +1,6 @@
 # Natural ou Fake Natty? 
 
-#Dogs Poker;)
+# Dogs Poker;)
 
 ## 📒 Descrição
 Desenvolvido pelo Copilot Microsoft, uma imagem divertida de cachorros jogando poker em um cassino.
